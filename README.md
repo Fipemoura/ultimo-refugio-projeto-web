@@ -24,4 +24,4 @@ O projeto visa aplicar conceitos fundamentais de HTML e estruturação web.
 * Aluno: Filipe de Araújo Moura - RA: 202451090534
 
 # Link de Hospedagem
-[COLE AQUI O LINK DO GITHUB PAGES QUE TE ENSINEI ANTES]
+https://fipemoura.github.io/ultimo-refugio-projeto-web/

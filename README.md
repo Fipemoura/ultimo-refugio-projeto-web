@@ -12,7 +12,7 @@ O projeto visa aplicar conceitos fundamentais de HTML e estruturação web.
 # Estrutura do Projeto
 * `index.html`: Página inicial com destaques e notícias.
 * `produtos.html`: Catálogo de equipamentos.
-* `noticia.html`: Detalhes sobre o Workshop na Selva.
+* `noticia.html`: Detalhes sobre o workshop presencial focado no cenário urbano.
 * `carrinho.html`: Simulação de inventário (tabela de compras).
 * `contato.html`: Formulário de comunicação.
 

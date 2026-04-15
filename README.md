@@ -1,4 +1,4 @@
-# Último Refúgio - Sistema de Sobrevivência
+# Último Refúgio - Loja de Sobrevivência
 
 # Objetivo do Sistema
 Site institucional e e-commerce para a loja "Último Refúgio", especializada em equipamentos de sobrevivência.
